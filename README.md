@@ -1,1 +1,1 @@
-# My-project
+# My-project создано для обучения
